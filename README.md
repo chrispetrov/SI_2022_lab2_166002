@@ -12,3 +12,10 @@ Control Flow Graph
 бидејќи имам 8 предикатни јазли
 
 P+1=9 CYC
+
+Тест случаи според критериумот Every statement
+
+![everystatement1](https://user-images.githubusercontent.com/47974663/171880771-ba391c76-3ae2-4e9f-b08c-a73ac9262604.png)
+
+
+So ovie vednosti brgu se izminuvaat site redevi kod najbrzo bez mnogu vrtenje na ciklusot for
