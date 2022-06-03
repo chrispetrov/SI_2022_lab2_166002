@@ -19,3 +19,12 @@ P+1=9 CYC
 
 
 So ovie vednosti brgu se izminuvaat site redevi kod najbrzo bez mnogu vrtenje na ciklusot for
+
+
+Тест случаи според критериумот Every path
+
+![everybranch](https://user-images.githubusercontent.com/47974663/171883643-74d37048-3369-454f-9e9a-c88558b509ad.png)
+
+
+Vo grafot sto go koristev prvite dve throwEx im staviv node X i Z
+A za ostanatite vrski kako I-O , S-F , F-V se slucivaat so ponatamosno minenje na for ciklusot
